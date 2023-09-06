@@ -1,0 +1,18 @@
+echo "# api" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Jhonl117/api.git
+git push -u origin main
+
+Vincular con git
+
+git init
+git config user.email "jhonedi990223@gmail.com"
+git config user.name "Jh"
+git add .
+git commit -n "Primer Commit"
+git branch -M main
+git remote add origin https://github.com/Jhonl117/api.git
+git bush -u origin main
